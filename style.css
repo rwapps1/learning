@@ -16,3 +16,10 @@ h1 {
     background-color: orange;
     text-align: center;
 }
+
+.catimage {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+   
