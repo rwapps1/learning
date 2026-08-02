@@ -15,6 +15,7 @@ h1 {
 .catsection {
     background-color: orange;
     text-align: center;
+    padding: 20px;
 }
 
 .catimage {
